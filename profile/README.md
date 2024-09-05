@@ -12,4 +12,4 @@ This project showcases key features of an online shopping platform, including pr
 ![Contributors](https://github.com/user-attachments/assets/a5518585-63a2-469d-916a-d0ab273d6cce)
 
 ----
-For Educational Purposes only 🎓
+` Note: 🎓 For Educational Purposes only `
